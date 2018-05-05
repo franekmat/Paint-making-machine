@@ -1,0 +1,4 @@
+Niebieski 40 64
+Czerwony 15 46
+Zielony 6 8
+Niebiebieski 3 4
